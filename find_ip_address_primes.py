@@ -1,3 +1,6 @@
+# find_ip_address_primes.py
+# Originally written by Jonathan Ellenberger (http://respondcreate.com/)
+
 import argparse, itertools
 
 def is_prime(num):
