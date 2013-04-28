@@ -9,12 +9,12 @@ A simple Python script by Jonathan Ellenberger that finds prime IP addresses.
 ### Required Arguments ###
 
 * `ip_range_start`: The start of the IP range to check for primes.
-* `ip_range_end`: The end of the IP range to check for primes
+* `ip_range_end`: The end of the IP range to check for primes.
 
 ### Optional Arguments ###
  
-* `--slice-start`/`-s`: The start of the 'slice range' to calculate prime IPs from the overall IP range that was originally created `slice_start` and `slice_end`.
-* `--slice-end`/`-e`: The end of the 'slice range' to calculate prime IPs from the overall IP range that was originally created `slice_start` and `slice_end`.
+* `--slice-start`/`-s`: The start of the 'slice range' to calculate prime IPs from the overall IP range.
+* `--slice-end`/`-e`: The end of the 'slice range' to calculate prime IPs from the overall IP range.
 
 ## Example Usage ##
 
